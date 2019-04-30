@@ -1,0 +1,43 @@
+@relation arA-weka.filters.supervised.instance.StratifiedRemoveFolds-S0-N2-F2-weka.filters.supervised.instance.Resample-B1.0-S1-Z25.35211268-no-replacement
+
+@attribute total_loc numeric
+@attribute unique_operators numeric
+@attribute Faultiness {FALSE,TRUE}
+
+@data
+82,12,FALSE
+36,11,FALSE
+39,15,FALSE
+10,4,FALSE
+128,13,FALSE
+23,10,FALSE
+68,5,FALSE
+64,14,FALSE
+38,13,FALSE
+3,5,FALSE
+148,16,FALSE
+8,4,FALSE
+62,13,FALSE
+17,5,FALSE
+22,7,FALSE
+13,4,FALSE
+12,15,FALSE
+68,14,FALSE
+240,19,TRUE
+307,23,TRUE
+6,7,TRUE
+173,31,TRUE
+30,18,TRUE
+89,18,TRUE
+269,26,TRUE
+142,17,TRUE
+89,20,TRUE
+47,17,TRUE
+333,18,TRUE
+103,17,TRUE
+95,19,TRUE
+191,22,TRUE
+50,14,TRUE
+10,11,TRUE
+27,9,TRUE
+181,6,TRUE
