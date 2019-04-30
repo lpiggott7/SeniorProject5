@@ -1,0 +1,42 @@
+@relation forrestA-weka.filters.supervised.instance.StratifiedRemoveFolds-S0-N2-F2-weka.filters.supervised.instance.Resample-B1.0-S1-Z172.7272727
+
+@attribute wmc numeric
+@attribute Faultiness {FALSE,TRUE}
+
+@data
+5,FALSE
+3,FALSE
+2,FALSE
+13,FALSE
+10,FALSE
+3,FALSE
+3,FALSE
+7,FALSE
+7,FALSE
+5,FALSE
+2,FALSE
+7,FALSE
+7,FALSE
+7,FALSE
+7,FALSE
+3,FALSE
+5,FALSE
+3,FALSE
+2,TRUE
+2,TRUE
+7,TRUE
+7,TRUE
+7,TRUE
+7,TRUE
+7,TRUE
+7,TRUE
+2,TRUE
+2,TRUE
+2,TRUE
+7,TRUE
+7,TRUE
+7,TRUE
+7,TRUE
+7,TRUE
+7,TRUE
+2,TRUE

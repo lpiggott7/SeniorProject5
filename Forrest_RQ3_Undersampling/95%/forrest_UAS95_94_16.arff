@@ -1,0 +1,16 @@
+@relation forrestA-weka.filters.supervised.instance.Resample-B0.0-S1-Z95.0-no-replacement-weka.filters.supervised.instance.Resample-B1.0-S1-Z23.80952381-no-replacement
+
+@attribute wmc numeric
+@attribute Faultiness {FALSE,TRUE}
+
+@data
+5,FALSE
+5,FALSE
+7,FALSE
+6,FALSE
+5,FALSE
+10,TRUE
+2,TRUE
+7,TRUE
+4,TRUE
+10,TRUE
